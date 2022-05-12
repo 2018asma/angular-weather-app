@@ -20,7 +20,7 @@ export class WeatherComponent implements OnInit {
       method: 'GET',
       headers: {
         'X-RapidAPI-Host': 'community-open-weather-map.p.rapidapi.com',
-        'X-RapidAPI-Key': '6770289b9emshe6b1adc12adc293p199fdfjsn033961320fed'
+	    	'X-RapidAPI-Key': '5ec8003711msh0a283ac76994871p14acacjsn50f911c0c200'
       },
     };
 
